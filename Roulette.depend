@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1624189776 source:g:\documenti\università\esami da completare\laboratorio di informatica\progetto\gabriele_recchia_213318_roulette\cronologia.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<stdbool.h>
+	<windows.h>
+	"cronologia.h"
+
+1624189776 g:\documenti\università\esami da completare\laboratorio di informatica\progetto\gabriele_recchia_213318_roulette\cronologia.h
+
+1624214224 source:g:\documenti\università\esami da completare\laboratorio di informatica\progetto\gabriele_recchia_213318_roulette\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<stdbool.h>
+	<windows.h>
+	"generatore.h"
+	"cronologia.h"
+
+1624206710 g:\documenti\università\esami da completare\laboratorio di informatica\progetto\gabriele_recchia_213318_roulette\generatore.h
+
